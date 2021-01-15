@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto',sans-serif;
+    background: rgb(178, 150, 100);
+}
+
+.estructura{
+    background: rgb(204, 201, 197);
+}
+
+.header{
+    
+}

@@ -22,7 +22,6 @@ function slides(){
 
         contador = 1;
         setTimeout(function(){
-            console.log("Ejecutando")
             slider.style.transform = "translate(0px)";
             slider.style.transition = "transform 0s";
         },1500)
